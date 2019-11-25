@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\alpoz\Desktop\hobbyDev\miniProject2\.metadata\.plugins\org.eclipse.jdt.core
+1959825236.index
+1086256396.index
+2328269416.index

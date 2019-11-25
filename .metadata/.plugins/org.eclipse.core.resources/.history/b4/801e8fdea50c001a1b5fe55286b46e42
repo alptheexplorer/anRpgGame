@@ -1,0 +1,16 @@
+package tutos;
+
+import ch.epfl.cs107.play.game.areagame.AreaGame;
+import game.tutos.area.tuto1.Ferme;
+import game.tutos.area.tuto1.Village;
+
+public class Tuto1 extends AreaGame{
+	private void createAreas() {
+		addArea(new Ferme());
+		addArea(new Village()); 
+	}
+	
+	public void update() {
+		super.update(super.deltaTime);
+	}
+}

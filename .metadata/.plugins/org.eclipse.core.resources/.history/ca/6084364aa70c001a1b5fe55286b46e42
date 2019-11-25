@@ -1,0 +1,37 @@
+package tutos;
+
+import ch.epfl.cs107.play.game.areagame.AreaGame;
+import game.tutos.area.tuto1.Ferme;
+import game.tutos.area.tuto1.Village;
+
+public class Tuto1 extends AreaGame{
+	
+	public Tuto1(){
+		super();
+	}
+	private void createAreas() {
+		addArea(new Ferme());
+		addArea(new Village()); 
+	}
+
+	public String getTitle(){
+		return "Tuto1";
+	}
+	
+	public void update() {
+		super.update(super.getDeltaTime());
+	}
+	
+	public void end() {
+		
+	}
+	
+	public boolean begin() {
+		if (super.begin(super.getWindow() , super.getFileSystem())) {
+			this.createAreas();
+			return true;
+			}
+			else return false;
+	}
+	
+}

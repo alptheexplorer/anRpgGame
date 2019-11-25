@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="ch.epfl.cs107.play.game.actor.Entity"/>
+    <fullyQualifiedTypeName name="ch.epfl.cs107.play.window.Canvas"/>
+    <fullyQualifiedTypeName name="ch.epfl.cs107.play.math.Vector"/>
+    <fullyQualifiedTypeName name="ch.epfl.cs107.play.game.areagame.Area"/>
+</qualifiedTypeNameHistroy>
