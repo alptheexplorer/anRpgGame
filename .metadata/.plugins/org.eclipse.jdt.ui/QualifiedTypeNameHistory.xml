@@ -2,6 +2,13 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="ch.epfl.cs107.play.game.actor.Entity"/>
     <fullyQualifiedTypeName name="ch.epfl.cs107.play.window.Canvas"/>
+    <fullyQualifiedTypeName name="game.tutos.actor.SimpleGhost"/>
+    <fullyQualifiedTypeName name="ch.epfl.cs107.play.window.Window"/>
+    <fullyQualifiedTypeName name="ch.epfl.cs107.play.io.FileSystem"/>
     <fullyQualifiedTypeName name="ch.epfl.cs107.play.math.Vector"/>
     <fullyQualifiedTypeName name="ch.epfl.cs107.play.game.areagame.Area"/>
+    <fullyQualifiedTypeName name="game.tutos.area.tuto1.Ferme"/>
+    <fullyQualifiedTypeName name="ch.epfl.cs107.play.game.tutosSolution.area.SimpleArea"/>
+    <fullyQualifiedTypeName name="ch.epfl.cs107.play.game.tutos.area.SimpleArea"/>
+    <fullyQualifiedTypeName name="ch.epfl.cs107.play.game.tutosSolution.Tuto2"/>
 </qualifiedTypeNameHistroy>

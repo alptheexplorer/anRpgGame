@@ -25,7 +25,7 @@ public class ARPG extends RPG {
 	 * Add all the areas
 	 */
 	private void createAreas(){
-		
+
 		
 
 	}
